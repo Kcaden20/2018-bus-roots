@@ -1,0 +1,22 @@
+title: Feature
+
+pages: false
+template: feature
+
+icon: user
+
+preview: parent
+
+fields:
+  title:
+    label: Name
+    type: title
+
+  about:
+    label: About
+    type: textarea
+
+  url:
+    label: link
+    type: url
+

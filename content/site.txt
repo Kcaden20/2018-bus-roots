@@ -1,0 +1,29 @@
+Title: Bus Roots
+
+----
+
+Author: Marco Castro
+
+----
+
+Description: 
+
+This is Bus Roots Website.
+
+This website was set in [TYPE ONE] and [TYPE TWO]. It was built using Kirby CMS by Kevin M. Cadena 2017. (link: http://kevincadena.com/)
+
+----
+
+Copyright: © 2009–(date: Year) (link: http://busroots.com/ text: Bus Roots)
+
+----
+
+Tags: 
+
+----
+
+Favicon: bus-roots-favicon-1.png
+
+----
+
+Logoimage: bus-roots-logo-green.svg

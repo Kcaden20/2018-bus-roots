@@ -1,0 +1,34 @@
+Title: Contact
+
+----
+
+Text: 
+
+## Keep up with Bus Roots on Twitter! 
+
+Marco 
+(twitter: @macascos)
+
+----
+
+Intro: 
+
+For More Information on Bus Roots:
+
+(email: marco@busroots text: Send me an email)
+
+Follow me on Twitter 
+(twitter: @macascos)
+
+----
+
+Contactoptions: 
+
+- 
+  title: Contact
+  text: >
+    Feel free to drop us a line if you have
+    any questions.
+  url: @macascos
+  linktext: Write an email
+  icon: ""

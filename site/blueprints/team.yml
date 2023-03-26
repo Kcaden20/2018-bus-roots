@@ -1,0 +1,24 @@
+title: Team Member
+
+pages: true
+  template: feature
+
+files: false
+
+icon: folder
+
+preview: parent
+
+fields:
+  title:
+    label: Name
+    type: title
+
+  about:
+    label: About
+    type: textarea
+
+  text:
+    label: Text
+    type: textarea
+

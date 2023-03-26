@@ -1,0 +1,31 @@
+title: Site
+
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  author:
+    label: Author
+    type:  text
+
+  logoimage:
+    label: Bus Roots Logo
+    type: image
+
+  description:
+    label: Description
+    type:  textarea
+
+  tags:
+    label: Tags
+    type: tags
+
+  copyright:
+    label: Copyright
+    type:  textarea
+
+  favicon:
+    type: image
+    label: favicon
